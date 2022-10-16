@@ -1,0 +1,8 @@
+# Python Code Obj Files
+*.pyc
+
+# Model Files, Too Big To Upload
+*.sav
+
+# Non-public Dataset From NCCGC
+Dataset/NCC*.csv
