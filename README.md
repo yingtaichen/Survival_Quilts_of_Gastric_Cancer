@@ -4,7 +4,7 @@ Use the [Survival Quilts](https://github.com/chl8856/SurvivalQuilts) to model an
 
 ## Thesis information
 * Title: Application of Survival Quilts for prognosis prediction of gastrectomy patients based on the Surveillance, Epidemiology, and End Results (SEER) database and China National Cancer Center Gastric Cancer (NCCGC) database
-* Authors: Lulu Zhao, Penghui Niu, Wanqing Wang, Xue Han1, Xiaoyi Luan1, Dongbing Zhao, Jidong Gao, Yingtai Chen
+* Authors: Lulu Zhao, Penghui Niu, Wanqing Wang, Xue Han, Xiaoyi Luan, Dongbing Zhao, Jidong Gao, Yingtai Chen
 
 ## Description of the code
 This code shows a simple example of the Survival Quilts on SEER/NCCGC dataset.
