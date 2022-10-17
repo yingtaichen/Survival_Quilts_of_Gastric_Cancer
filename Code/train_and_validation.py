@@ -81,7 +81,7 @@ def train_the_model(MODE, K, num_outer):
 
     print("Finished!")
 
-def validation_the_model(model_name):
+def validate_the_model(model_name):
     
     MODE = 11 if "VS" in model_name else 21
     if "NT2" in model_name:
